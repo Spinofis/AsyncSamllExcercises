@@ -14,17 +14,18 @@ namespace AsyncReadWrite1
 
         private readonly Random _charRandom = new Random();
 
-        public string GenerateText(int length)
+        public string GenerateText(double length)
         {
             List<string> alphabeth = Enumerable.Range(97, 26)
                 .Select(x => Char.ConvertFromUtf32(x))
                 .ToList();
 
             StringBuilder sb = new StringBuilder();
+            sb.Append(DateTime.Now.ToString());
 
             while (length > 0)
             {
-                int wordLength = _wordRandom.Next(1, MAX_WORD_LEN);
+                double wordLength = _wordRandom.Next(1, MAX_WORD_LEN);
                 wordLength = length < wordLength ? length : wordLength;
                 length -= wordLength;
                 sb.Append(GetWord(wordLength, alphabeth));
@@ -33,7 +34,7 @@ namespace AsyncReadWrite1
             return sb.ToString();
         }
 
-        private string GetWord(int length, List<string> alphabeth)
+        private string GetWord(double length, List<string> alphabeth)
         {
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < length - 1; i++)

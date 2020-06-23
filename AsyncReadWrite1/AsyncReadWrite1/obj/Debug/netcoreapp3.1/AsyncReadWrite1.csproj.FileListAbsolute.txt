@@ -4,7 +4,6 @@ C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWrite1\bin\Debug\netcoreapp
 C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWrite1\bin\Debug\netcoreapp3.1\AsyncReadWrite1.runtimeconfig.dev.json
 C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWrite1\bin\Debug\netcoreapp3.1\AsyncReadWrite1.dll
 C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWrite1\bin\Debug\netcoreapp3.1\AsyncReadWrite1.pdb
-C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWrite1\obj\Debug\netcoreapp3.1\AsyncReadWrite1.csprojAssemblyReference.cache
 C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWrite1\obj\Debug\netcoreapp3.1\AsyncReadWrite1.csproj.CoreCompileInputs.cache
 C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWrite1\obj\Debug\netcoreapp3.1\AsyncReadWrite1.AssemblyInfoInputs.cache
 C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWrite1\obj\Debug\netcoreapp3.1\AsyncReadWrite1.AssemblyInfo.cs

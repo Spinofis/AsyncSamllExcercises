@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncReadWrite1", "AsyncRea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncReadWrite1Tests", "AsyncReadWrite1Tests\AsyncReadWrite1Tests.csproj", "{6185DCA4-6D5C-43E4-917A-A9DCDE55860D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncReadWriteText", "AsyncReadWriteText\AsyncReadWriteText.csproj", "{4658A023-FB19-43AA-AF5D-9384795E66EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6185DCA4-6D5C-43E4-917A-A9DCDE55860D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6185DCA4-6D5C-43E4-917A-A9DCDE55860D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6185DCA4-6D5C-43E4-917A-A9DCDE55860D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4658A023-FB19-43AA-AF5D-9384795E66EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4658A023-FB19-43AA-AF5D-9384795E66EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4658A023-FB19-43AA-AF5D-9384795E66EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4658A023-FB19-43AA-AF5D-9384795E66EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

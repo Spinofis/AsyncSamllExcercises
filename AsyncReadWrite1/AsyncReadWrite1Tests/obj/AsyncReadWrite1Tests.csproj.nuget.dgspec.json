@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net472"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,10 +30,13 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net472": {
             "projectReferences": {
               "C:\\Nauka\\AsyncSmallExamples\\AsyncReadWrite1\\AsyncReadWrite1\\AsyncReadWrite1.csproj": {
                 "projectPath": "C:\\Nauka\\AsyncSmallExamples\\AsyncReadWrite1\\AsyncReadWrite1\\AsyncReadWrite1.csproj"
+              },
+              "C:\\Nauka\\AsyncSmallExamples\\AsyncReadWrite1\\AsyncReadWriteText\\AsyncReadWriteText.csproj": {
+                "projectPath": "C:\\Nauka\\AsyncSmallExamples\\AsyncReadWrite1\\AsyncReadWriteText\\AsyncReadWriteText.csproj"
               }
             }
           }
@@ -45,7 +48,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net472": {
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -60,16 +63,6 @@
               "version": "[3.12.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -134,6 +127,17 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Nauka\\AsyncSmallExamples\\AsyncReadWrite1\\AsyncReadWriteText\\AsyncReadWriteText.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Nauka\\AsyncSmallExamples\\AsyncReadWrite1\\AsyncReadWriteText\\AsyncReadWriteText.csproj",
+        "projectName": "AsyncReadWriteText",
+        "projectPath": "C:\\Nauka\\AsyncSmallExamples\\AsyncReadWrite1\\AsyncReadWriteText\\AsyncReadWriteText.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

@@ -1,0 +1,10 @@
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\bin\Debug\AsyncReadWriteText.exe.config
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\bin\Debug\AsyncReadWriteText.exe
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\bin\Debug\AsyncReadWriteText.pdb
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\obj\Debug\AsyncReadWriteText.csprojAssemblyReference.cache
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\obj\Debug\AsyncReadWriteText.Form1.resources
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\obj\Debug\AsyncReadWriteText.Properties.Resources.resources
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\obj\Debug\AsyncReadWriteText.csproj.GenerateResource.cache
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\obj\Debug\AsyncReadWriteText.csproj.CoreCompileInputs.cache
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\obj\Debug\AsyncReadWriteText.exe
+C:\Nauka\AsyncSmallExamples\AsyncReadWrite1\AsyncReadWriteText\obj\Debug\AsyncReadWriteText.pdb
